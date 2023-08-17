@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Banana
+  - Ladder
+  - Platform
+  - Coins
+  - trap
+  - Lifeup
+  - Enemy
+  - HurtBox
+  - PlayerPortal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - 
+  - player
+  - Enemy
+  - Stomper
+  - Traps
+  - Hurtbox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: bg5
+    uniqueID: 3354262287
+    locked: 0
+  - name: bg4
+    uniqueID: 400191647
+    locked: 0
+  - name: bg3
+    uniqueID: 3389302637
+    locked: 0
+  - name: bg2
+    uniqueID: 661745681
+    locked: 0
+  - name: bg1
+    uniqueID: 535586635
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: terrain
+    uniqueID: 3167345227
+    locked: 0
